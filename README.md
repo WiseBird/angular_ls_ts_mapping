@@ -1,0 +1,1 @@
+Repo contains reproduction of the problem when Angular Language Service complains that component is not included in a module.
